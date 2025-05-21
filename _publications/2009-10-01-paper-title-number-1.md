@@ -1,13 +1,9 @@
 ---
-title: "Beamforming design with partial channel estimation and feedback for FDD RIS-assisted systems"
+title: "Beamforming Design With Partial Channel Estimation and Feedback for FDD RIS-Assisted Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 2009-10-01
-venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'X. Ge, S. Yu, W. Shen, C. Xing and B. Shim, "Beamforming Design With Partial Channel Estimation and Feedback for FDD RIS-Assisted Systems," in IEEE Transactions on Wireless Communications, vol. 23, no. 6, pp. 6347-6361, June 2024, doi: 10.1109/TWC.2023.3331054.'
 ---
