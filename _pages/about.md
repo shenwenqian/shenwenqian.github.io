@@ -11,4 +11,4 @@ Wenqian Shen (Member, IEEE) received the B.S. degree from Xi’an Jiaotong Unive
 
 She has published several journal articles and conference papers in IEEE TRANSACTIONS ON SIGNAL PROCESSING, IEEE TRANSACTIONS ON COMMUNICATIONS, IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY, and IEEE ICC. Her research interests include massive MIMO and mmWave/THz communications. She received the IEEE Best Paper Award from IEEE ICC 2017.
 
-For more information about our research, please kindly refer to our homepage "https://shenwenqian.github.io".
+For more information about our research, please kindly refer to our [homepage](https://shenwenqian.github.io).
