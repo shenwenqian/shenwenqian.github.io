@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shen Wenqian / Personal Homepage"
+title                    : "Shen Wenqian 申文倩 / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shen Wenqian"
 description              : &description "Assoc Prof. from BIT"
