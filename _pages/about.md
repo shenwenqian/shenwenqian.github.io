@@ -13,4 +13,3 @@ She has published several journal articles and conference papers in IEEE TRANSAC
 
 [[Google Scholar]](https://scholar.google.com/citations?user=Z_rm7dcAAAAJ&hl=zh-CN&oi=sra)
 [[IEEE]](https://ieeexplore.ieee.org/author/37085385904)
-[[ORCID]](https://orcid.org/0000-0003-2509-3664)
