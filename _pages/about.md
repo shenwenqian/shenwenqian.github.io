@@ -15,7 +15,9 @@ She has published several journal articles and conference papers in IEEE TRANSAC
 [[IEEE]](https://ieeexplore.ieee.org/author/37085385904)
 
 <div style="font-weight: bold; font-size: 28px;">Publications:</div>
+
 <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=Z_rm7dcAAAAJ&hl=zh-CN&oi=sra">my Google Scholar profile</a>.</div>
+
 <div style="font-weight: bold; font-size: 24px;">Journals:</div>
 
   [J29] X. Yu, H. Liu, S. Gong, <strong>W. Shen</strong>, J. Zhao and C. Xing, "Channel Estimation for Irregular Subarrayed RIS-Aided mmwave Communications," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3574404.
@@ -159,10 +161,6 @@ She has published several journal articles and conference papers in IEEE TRANSAC
   <a href="https://arxiv.org/pdf/1410.5331">[arXiv] </a>
   <a href="https://oa.ee.tsinghua.edu.cn/~dailinglong/publications/code/Spatially%20correlated%20channel%20estimation%20based%20on%20block%20iterative%20support%20detection%20for%20massive%20MIMO.zip">[Codes] </a>
   <br>
-
-
-
-
 
   <div style="font-weight: bold; font-size: 24px;">Conferences:</div>
 
