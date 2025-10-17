@@ -20,6 +20,11 @@ She has published several journal articles and conference papers in IEEE TRANSAC
 
 <div style="font-weight: bold; font-size: 24px;">Journals:</div>
 
+  [J30] D. Jia, <strong>W. Shen</strong>, J. An and B. Shim, "Blind Channel Estimation for RIS-Assisted Millimeter Wave Communication Systems," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3603193.
+  <a href="https://ieeexplore.ieee.org/document/11142603">[IEEE URL] </a>
+  <a href="https://github.com/shenwenqian/BCE-RIS_TVT_2025.git">[Codes] </a>
+  <br>
+
   [J29] X. Yu, H. Liu, S. Gong, <strong>W. Shen</strong>, J. Zhao and C. Xing, "Channel Estimation for Irregular Subarrayed RIS-Aided mmwave Communications," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3574404.
   <a href="https://ieeexplore.ieee.org/abstract/document/11016769">[IEEE URL] </a>
   <br>
