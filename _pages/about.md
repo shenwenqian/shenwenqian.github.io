@@ -20,6 +20,10 @@ She has published several journal articles and conference papers in IEEE TRANSAC
 
 <div style="font-weight: bold; font-size: 24px;">Journals:</div>
 
+  [J31] X. Yu, <strong>W. Shen</strong>, J. Chen and J. An, "Data Detection for Oversampled OTSM System with Low-bit ADCs," in IEEE Transactions on Signal Processing, doi: 10.1109/TSP.2025.3603612.
+  <a href="https://ieeexplore.ieee.org/document/11145214">[IEEE URL] </a>
+  <br>
+
   [J30] D. Jia, <strong>W. Shen</strong>, J. An and B. Shim, "Blind Channel Estimation for RIS-Assisted Millimeter Wave Communication Systems," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3603193.
   <a href="https://ieeexplore.ieee.org/document/11142603">[IEEE URL] </a>
   <a href="https://github.com/shenwenqian/BCE-RIS_TVT_2025.git">[Codes] </a>
