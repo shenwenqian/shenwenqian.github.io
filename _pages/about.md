@@ -26,6 +26,7 @@ She has published several journal articles and conference papers in IEEE TRANSAC
 
   [J30] D. Jia, <strong>W. Shen</strong>, J. An and B. Shim, "Blind Channel Estimation for RIS-Assisted Millimeter Wave Communication Systems," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3603193.
   <a href="https://ieeexplore.ieee.org/document/11142603">[IEEE URL] </a>
+  <a href="https://arxiv.org/abs/2508.17710">[arXiv] </a>
   <a href="https://github.com/shenwenqian/BCE-RIS_TVT_2025.git">[Codes] </a>
   <br>
 
