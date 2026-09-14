@@ -20,7 +20,11 @@ She has published several journal articles and conference papers in IEEE TRANSAC
 
 <div style="font-weight: bold; font-size: 24px;">Journals:</div>
 
-  [J32] J. Zhang, W. Shen, K. Yang, Z. Gao and J. An, "A Joint Graph-Cut Channel Estimation Method for Multi-user Holographic MIMO," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2026.3673703.
+  [J33] X. Yu, L. Zhao, <strong>W. Shen</strong>, J. Li and X. Bu, "Low-Complexity Parallel Architecture for Joint Matched Filtering and Timing Recovery in Terahertz Communications," in IEEE Transactions on Vehicular Technology, vol. 75, no. 7, pp. 15166-15170, July 2026, doi: 10.1109/TVT.2026.3653468.
+  <a href="https://ieeexplore.ieee.org/document/11347467">[IEEE URL] </a>
+  <br>
+  
+  [J32] J. Zhang, <strong>W. Shen</strong>, K. Yang, Z. Gao and J. An, "A Joint Graph-Cut Channel Estimation Method for Multi-user Holographic MIMO," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2026.3673703.
   <a href="https://ieeexplore.ieee.org/document/11433516">[IEEE URL] </a>
   <a href="https://arxiv.org/abs/2603.17369">[arXiv] </a>
   <br>
