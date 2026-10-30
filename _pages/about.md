@@ -54,8 +54,8 @@ She has published several journal articles and conference papers in IEEE TRANSAC
   <a href="https://ieeexplore.ieee.org/abstract/document/11004037">[IEEE URL] </a>
   <br>
 
-  [J26] X. Wang, S. Gong, <strong>W. Shen</strong>, et al. "Multi-Carrier Faster-Than-Nyquist Signaling for OTFS Systems," arXiv preprint, arXiv:2501.06750, 2025.
-  <a href="https://arxiv.org/pdf/2501.06750">[arXiv] </a>
+  [J26] X. Wang, S. Gong, W. Shen, C. Xing and J. A. Zhang, "Multi-Carrier Faster-Than-Nyquist Signaling for OTFS Systems," in IEEE Transactions on Vehicular Technology, vol. 74, no. 12, pp. 19339-19354, Dec. 2025, doi: 10.1109/TVT.2025.3588330.
+  <a href="https://ieeexplore.ieee.org/document/11078288">[IEEE URL] </a>
   <br>
 
   [J25] Z. Deng, C. Xing, <strong>W. Shen</strong>, Y. Wu and B. Ottersten, "Unitary Approximate Message Passing Detector for OTSM System Based on Walsh-Hadamard Transform in LEO Satellite Communications," in IEEE Transactions on Vehicular Technology, vol. 74, no. 5, pp. 7744-7759, May 2025, doi: 10.1109/TVT.2025.3526622.
